@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Imani Moorman and I am a junior- level ASP.Net software developer. 
 <!--
 **Imoorman/Imoorman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
